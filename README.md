@@ -14,8 +14,12 @@ pitfalls
 
 ## Assistance
 
-It wouldn't be realistic if AI was not involved, used to help troubleshooting
-or iterate over the initial skeleton idea.
+It wouldn't be realistic if AI was not involved. It was used to help
+troubleshooting or iterate over the initial skeleton idea.
+
+Google AI mode, and Codex were used in small parts.
+
+## Testing
 
 TDD was used, to keep focused on specific problems and not over-engineer this
 small simple example.
